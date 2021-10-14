@@ -3,6 +3,11 @@ lang-guess
 
 Guesses the language of entered text in CLI.
 
+## Usage
+1. clone project
+2. run npm install to install dependencies.
+3. run node index.js
+
 
 
 ## Sample input phrases
