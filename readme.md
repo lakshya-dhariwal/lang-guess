@@ -17,5 +17,5 @@ Guesses the language of entered text in CLI.
 'এটি একটি ভাষা একক IBM স্ক্রিপ্ট'
 
 'Alle menneske er fødde til fridom'
-
-
+---
+![img](demo.png)
