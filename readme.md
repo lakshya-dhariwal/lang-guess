@@ -1,11 +1,9 @@
 lang-guess
 =========
 
-Guesses the language of entered text.
+Guesses the language of entered text in CLI.
 
-## Installation
 
-  `npm install @lakshya-dhariwal/lang-guess`
 
 ## Sample input phrases
 
@@ -15,4 +13,4 @@ Guesses the language of entered text.
 
 'Alle menneske er fødde til fridom'
 
-## Github- https://github.com/lakshya-dhariwal/lang-guess
+
